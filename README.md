@@ -1,6 +1,6 @@
 # AHT
 
-This is code specific to the AHT series of adios. This is upstream to the
+This is code specific to the AHT series of radios. This is upstream to the
 public developer API -- the API itself calls functions which are implemented
 here, and functions implemented here are expected to be as consistent as
 possible among all of the AHT lineup, and preferably all Android radios.
